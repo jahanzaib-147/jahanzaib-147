@@ -1,0 +1,13 @@
+{
+  "title": "Systems & Security Radar",
+  "_comment": "Self-rated engineering & security skills for Muhammad Jahanzaib",
+  "axes": [
+    { "label": "Distributed Systems",   "value": 94 },
+    { "label": "Cloud & RAG DevSecOps", "value": 90 },
+    { "label": "Network Defense & DMZ", "value": 92 },
+    { "label": "Cisco ASA & Firewalls", "value": 88 },
+    { "label": "Enterprise OSPF WAN",   "value": 91 },
+    { "label": "Python & HPC",          "value": 95 },
+    { "label": "Linux & Virtualization","value": 89 }
+  ]
+}
