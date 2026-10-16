@@ -9,7 +9,7 @@
 
 <!-- ANIMATED CYBER TYPING TAGLINE -->
 <a href="https://github.com/jahanzaib-147">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=00FF99&center=true&vCenter=true&width=780&lines=Hi%2C+I+am+Muhammad+Jahanzaib;High-Performance+Computing+%26+Distributed+Systems;Cloud+Architecture+%26+Serverless+DevSecOps;Enterprise+Network+Defense+%26+Firewall+Engineering;OpenMPI+%7C+Map-Reduce+%7C+FAISS+Vector+Search;Cisco+Packet+Tracer+%7C+OSPF+Backbone+%7C+Zero+Trust" alt="Muhammad Jahanzaib typing tagline">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=00FF99&center=true&vCenter=true&width=840&lines=Hi%2C+I+am+Muhammad+Jahanzaib;Cybersecurity+Operations+(SOC)+%26+Alert+Triage;Threat+Detection+%26+Incident+Response;Python%2C+JavaScript+%26+Full-Stack+Development;IBM+QRadar+SIEM%2FSOAR+%26+Endpoint+Defense;Enterprise+Network+Security+%26+Cisco+ASA;ISO%2FIEC+27001+%7C+CTIGA+%7C+Carbon+Black+%7C+Trellix" alt="Muhammad Jahanzaib typing tagline">
 </a>
 
 <br><br>
@@ -29,14 +29,12 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Muhammad Jahanzaib**. I'm a Computer Science engineer specializing in **High-Performance Computing (HPC)**, **Distributed Systems**, **Cloud Architecture**, and **Enterprise Network Defense**. I architect distributed simulation engines, serverless RAG-driven DevSecOps auditors, dynamic multi-campus OSPF WANs, and containerized security challenge environments.
+Hi, I'm **Muhammad Jahanzaib**. I'm a Computer Science graduate (GPA 3.6 / 4.0, Iqra University) passionate about **Cybersecurity Operations (SOC)**, **Threat Detection & Incident Response**, and **Software Engineering**. I combine hands-on security operations using enterprise SIEM and EDR platforms with solid development skills in Python, JavaScript, and React.
 
-- 🚦 Creator & Architect of **[UrbanFlow HPC](https://github.com/jahanzaib-147/RealTimeTrafficSim)** — Distributed traffic flow simulation engine benchmarking **Serial vs. Multiprocessing vs. MPI (`mpi4py`)** across virtualized Linux clusters with interactive GUI & CLI.
-- 🛡️ Creator & Architect of **[CloudAegis](https://github.com/jahanzaib-147/CloudAegis-Serverless-RAG-SAST-DevSecOps-Auditor)** — Serverless **SAST code auditor** using **LangChain RAG**, **FAISS Vector DB**, and **Google Gemini 2.0** with dynamic Map-Reduce code chunking and live Amdahl's Law metrics.
-- 🌐 Designer of **[MetroNet](https://github.com/jahanzaib-147/MetroNet-Enterprise-Campus-OSPF-Backbone)** — Scalable 4-Campus Metropolitan Area Network (MAN) in Cisco Packet Tracer with **dynamic OSPF Area 0**, Layer 3 Multilayer Switching, VLSM, and Zero-Trust ACL campus isolation.
-- 🔒 Designer of **[Perimeter Guard](https://github.com/jahanzaib-147/Perimeter-Guard-Cisco-ASA-Firewall-Defense)** — Two-tier campus perimeter defense combining a **Cisco ASA 5505 Stateful Firewall (Modular Policy Framework MPF)** with a Cisco 3560 Core Switch for directional access control.
-- 🛡️ Designer of **[Campus Shield](https://github.com/jahanzaib-147/Campus-Shield-Zero-Trust-DMZ-Network)** — Zero-Trust campus architecture with **DMZ service isolation**, 802.1Q VLANs, **Layer 2 Port Security (Sticky MAC)**, and Layer 3/4 Extended ACL firewall policies.
-- 🏴‍☠️ Co-Author & Challenge Creator for **[TriHack 2026 Vault](https://github.com/jahanzaib-147/TriHack-2026-Anime-Themed-CTF-Vault)** — Official competition repository featuring **24+ anime/pop-culture themed CTF challenges** across Web, Crypto, Reverse Engineering, Pwn, and Forensics with Dockerized setups.
+- 🛡️ **Security Operations (SOC)**: Former SOC Analyst Intern at **Jubilee Life Insurance** — Triaged high-volume IBM QRadar SIEM/SOAR alerts, filtered true positives, investigated threat intelligence indicators, and executed endpoint containment using Trellix EPP & Carbon Black EDR.
+- 💻 **Software & Security Development**: Built high-performance distributed simulation engines, automated security workflows in Python, and developed full-stack web applications with React and JavaScript.
+- 🌐 **Network Defense & Architecture**: Designed robust perimeter security and multi-campus network topologies utilizing Cisco ASA stateful firewalls, dynamic OSPF routing, and Zero-Trust VLAN/DMZ segmentation.
+- 📜 **Core Certifications**: **ISO/IEC 27001 Information Security Associate™** (SkillFront) & **Certified Threat Intelligence & Governance Analyst (CTIGA)** (Hack and Fix).
 
 <br>
 
@@ -44,7 +42,18 @@ Hi, I'm **Muhammad Jahanzaib**. I'm a Computer Science engineer specializing in 
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=bash,linux,powershell,py,c,cpp,docker,git,github,vscode,postgres,mysql,md,react,js&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell,py,docker,git,github,vscode,postman,postgres,mysql,react,js&perline=14" alt="tech stack">
+
+<br><br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IBM_QRadar_SIEM%2FSOAR-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM QRadar">
+  <img src="https://img.shields.io/badge/Trellix_EPP-FF5A00?style=flat-square&logo=shield&logoColor=white" alt="Trellix EPP">
+  <img src="https://img.shields.io/badge/Carbon_Black_EDR-1B365D?style=flat-square&logo=vmware&logoColor=white" alt="Carbon Black EDR">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Cisco_ASA_5505-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco ASA">
+</p>
 
 </div>
 
@@ -104,6 +113,6 @@ Hi, I'm **Muhammad Jahanzaib**. I'm a Computer Science engineer specializing in 
 
 <div align="center">
 
-<sub><em>"Architecting resilient distributed systems, hardening enterprise infrastructure, and engineering high-throughput compute engines."</em></sub>
+<sub><em>"Bridging defensive security operations, threat triage, and modern software development."</em></sub>
 
 </div>
