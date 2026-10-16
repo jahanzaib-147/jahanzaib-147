@@ -1,0 +1,30 @@
+{
+  "title": "Core Languages & Tooling",
+  "_comment": "Language competencies for Muhammad Jahanzaib",
+  "axes": [
+    {
+      "label": "Python",
+      "value": 96
+    },
+    {
+      "label": "PowerShell",
+      "value": 95
+    },
+    {
+      "label": "Mermaid",
+      "value": 94
+    },
+    {
+      "label": "Bash / Linux",
+      "value": 92
+    },
+    {
+      "label": "JavaScript / React",
+      "value": 90
+    },
+    {
+      "label": "SQL",
+      "value": 89
+    }
+  ]
+}

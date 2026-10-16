@@ -9,15 +9,14 @@
 
 <!-- ANIMATED CYBER TYPING TAGLINE -->
 <a href="https://github.com/jahanzaib-147">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=00FF99&center=true&vCenter=true&width=840&lines=Hi%2C+I+am+Muhammad+Jahanzaib;Cybersecurity+Operations+(SOC)+%26+Alert+Triage;Threat+Detection+%26+Incident+Response;Python%2C+JavaScript+%26+Full-Stack+Development;IBM+QRadar+SIEM%2FSOAR+%26+Endpoint+Defense;Enterprise+Network+Security+%26+Cisco+ASA;ISO%2FIEC+27001+%7C+CTIGA+%7C+Carbon+Black+%7C+Trellix" alt="Muhammad Jahanzaib typing tagline">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=00FF99&center=true&vCenter=true&width=840&lines=Hi%2C+I+am+Muhammad+Jahanzaib;Cybersecurity+Operations+(SOC)+%26+Alert+Triage;Threat+Detection+%26+Incident+Response;Python%2C+PowerShell+%26+Mermaid+Architecture;IBM+QRadar+SIEM%2FSOAR+%26+Endpoint+Defense;Enterprise+Network+Security+%26+Cisco+ASA;ISO%2FIEC+27001+%7C+CTIGA+%7C+Carbon+Black+%7C+Trellix" alt="Muhammad Jahanzaib typing tagline">
 </a>
 
 <br><br>
 
 <!-- SOCIALS -->
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/muhammadjahanzaib961/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:malikjahanzaibawan961@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/jahanzaib-147/ClientFolio-Commercial-Developer-Portfolio-WebApp"><img src="https://img.shields.io/badge/Live_Portfolio-00ff99?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio"></a>
 
 </div>
 
@@ -29,10 +28,10 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Muhammad Jahanzaib**. I'm a Computer Science graduate (GPA 3.6 / 4.0, Iqra University) passionate about **Cybersecurity Operations (SOC)**, **Threat Detection & Incident Response**, and **Software Engineering**. I combine hands-on security operations using enterprise SIEM and EDR platforms with solid development skills in Python, JavaScript, and React.
+Hi, I'm **Muhammad Jahanzaib**. I'm a Computer Science graduate (GPA 3.6 / 4.0, Iqra University) passionate about **Cybersecurity Operations (SOC)**, **Threat Detection & Incident Response**, and **Software Engineering**. I combine hands-on security operations using enterprise SIEM and EDR platforms with solid development skills in Python, PowerShell, Mermaid architecture modeling, and JavaScript/React.
 
 - 🛡️ **Security Operations (SOC)**: Former SOC Analyst Intern at **Jubilee Life Insurance** — Triaged high-volume IBM QRadar SIEM/SOAR alerts, filtered true positives, investigated threat intelligence indicators, and executed endpoint containment using Trellix EPP & Carbon Black EDR.
-- 💻 **Software & Security Development**: Built high-performance distributed simulation engines, automated security workflows in Python, and developed full-stack web applications with React and JavaScript.
+- 💻 **Software & Security Development**: Built high-performance distributed simulation engines, automated security workflows in **Python & PowerShell**, designed detailed system diagrams with **Mermaid**, and developed full-stack web applications with React and JavaScript.
 - 🌐 **Network Defense & Architecture**: Designed robust perimeter security and multi-campus network topologies utilizing Cisco ASA stateful firewalls, dynamic OSPF routing, and Zero-Trust VLAN/DMZ segmentation.
 - 📜 **Core Certifications**: **ISO/IEC 27001 Information Security Associate™** (SkillFront) & **Certified Threat Intelligence & Governance Analyst (CTIGA)** (Hack and Fix).
 

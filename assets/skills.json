@@ -2,12 +2,12 @@
   "title": "Security & Systems Radar",
   "_comment": "Core competencies for Muhammad Jahanzaib",
   "axes": [
-    { "label": "Security Operations (SOC)", "value": 93 },
-    { "label": "SIEM / SOAR Triage",        "value": 91 },
-    { "label": "Threat Detection & IR",     "value": 89 },
-    { "label": "Endpoint Security & EDR",   "value": 89 },
-    { "label": "Network Defense & Cisco",   "value": 90 },
-    { "label": "Python & Scripting",        "value": 92 },
-    { "label": "Web Dev (React / JS)",      "value": 88 }
+    { "label": "Security Operations (SOC)", "value": 94 },
+    { "label": "SIEM / SOAR Triage",        "value": 93 },
+    { "label": "Threat Detection & IR",     "value": 92 },
+    { "label": "Endpoint Security & EDR",   "value": 91 },
+    { "label": "Network Defense & Cisco",   "value": 92 },
+    { "label": "Python & PowerShell",       "value": 96 },
+    { "label": "Architecture & Mermaid",    "value": 95 }
   ]
 }
