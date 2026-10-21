@@ -1,13 +1,14 @@
 {
-  "title": "Security & Systems Radar",
-  "_comment": "Core competencies for Muhammad Jahanzaib",
+  "title": "Systems, Security & Network Radar",
+  "_comment": "Core competencies for Muhammad Jahanzaib - Heavy command in Networking & Cyber with Freelance Development",
   "axes": [
-    { "label": "Security Operations (SOC)", "value": 94 },
-    { "label": "SIEM / SOAR Triage",        "value": 93 },
-    { "label": "Threat Detection & IR",     "value": 92 },
-    { "label": "Endpoint Security & EDR",   "value": 91 },
-    { "label": "Network Defense & Cisco",   "value": 92 },
-    { "label": "Python & PowerShell",       "value": 96 },
-    { "label": "Architecture & Mermaid",    "value": 95 }
+    { "label": "Network Defense & Cisco ASA", "value": 95 },
+    { "label": "Security Operations (SOC)",  "value": 94 },
+    { "label": "Threat Detection & IR",      "value": 90 },
+    { "label": "SIEM / SOAR Triage",         "value": 88 },
+    { "label": "Linux & Server Hardening",   "value": 85 },
+    { "label": "Cloud & DevSecOps",          "value": 80 },
+    { "label": "SaaS & API Architecture",    "value": 76 },
+    { "label": "Full-Stack Dev (Freelance)",  "value": 74 }
   ]
 }

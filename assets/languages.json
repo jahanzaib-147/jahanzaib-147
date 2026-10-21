@@ -1,30 +1,14 @@
 {
-  "title": "Core Languages & Tooling",
+  "title": "Programming & Scripting Languages",
   "_comment": "Language competencies for Muhammad Jahanzaib",
   "axes": [
-    {
-      "label": "Python",
-      "value": 96
-    },
-    {
-      "label": "PowerShell",
-      "value": 95
-    },
-    {
-      "label": "Mermaid",
-      "value": 94
-    },
-    {
-      "label": "Bash / Linux",
-      "value": 92
-    },
-    {
-      "label": "JavaScript / React",
-      "value": 90
-    },
-    {
-      "label": "SQL",
-      "value": 89
-    }
+    { "label": "Python",            "value": 95 },
+    { "label": "PowerShell",        "value": 90 },
+    { "label": "Bash / Shell",      "value": 88 },
+    { "label": "JavaScript / React","value": 82 },
+    { "label": "TypeScript",        "value": 78 },
+    { "label": "SQL (PostgreSQL)",  "value": 76 },
+    { "label": "C / C++",           "value": 70 },
+    { "label": "Tailwind & CSS",    "value": 84 }
   ]
 }
